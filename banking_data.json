@@ -1,0 +1,16 @@
+{
+  "users": [],
+  "transactions": [
+    {
+      "source_account": {
+        "account_number": "A123",
+        "balance": 800
+      },
+      "destination_account": {
+        "account_number": "A456",
+        "balance": 700
+      },
+      "amount": 200
+    }
+  ]
+}

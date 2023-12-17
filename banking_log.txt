@@ -1,0 +1,4 @@
+INFO:root:Transaction: 200 from A123 to A456
+INFO:root:Transaction: 200 from A123 to A456
+INFO:root:Transaction: 200 from A123 to A456
+INFO:root:Transaction: 200 from A123 to A456
